@@ -4,26 +4,26 @@ This repository contains Python programs that were created as part of the course
 
 ## Table of Contents
 
-1.  Hello World
-2.  Greeting the User
-3.  Pay Calculation
-4.  Check for Numeric Input
-5.  Pay with Overtime
-6.  Grading System
-7.  Compute Pay Function
-8.  Infinite Loop Input
-9.  Ignoring Comments
-10. Simple Loop
-11. Before and After Loop
-12. Largest Number in List
-13. Count and Print Loop
-14. Feeling Type Categorizer
-15. Sum of Numbers
-16. Count and Sum Numbers
-17. Filtering Numbers
-18. Search Using Boolean
-19. Find Smallest Number
-20. Find Maximum and Minimum
+1. [Hello World](#program-1-hello-world)
+2. [Greeting the User](#program-2-greeting-the-user)
+3. [Pay Calculation](#program-3-pay-calculation)
+4. [Check for Numeric Input](#program-4-check-for-numeric-input)
+5. [Pay with Overtime](#program-5-pay-with-overtime)
+6. [Grading System](#program-6-grading-system)
+7. [Compute Pay Function](#program-7-compute-pay-function)
+8. [Infinite Loop Input](#program-8-infinite-loop-input)
+9. [Ignoring Comments](#program-9-ignoring-comments)
+10. [Simple Loop](#program-10-simple-loop)
+11. [Before and After Loop](#program-11-before-and-after-loop)
+12. [Largest Number in List](#program-12-largest-number-in-list)
+13. [Count and Print Loop](#program-13-count-and-print-loop)
+14. [Feeling Type Categorizer](#program-14-feeling-type-categorizer)
+15. [Sum of Numbers](#program-15-sum-of-numbers)
+16. [Count and Sum Numbers](#program-16-count-and-sum-numbers)
+17. [Filtering Numbers](#program-17-filtering-numbers)
+18. [Search Using Boolean](#program-18-search-using-boolean)
+19. [Find Smallest Number](#program-19-find-smallest-number)
+20. [Find Maximum and Minimum](#program-20-find-maximum-and-minimum)
 
 ---
 

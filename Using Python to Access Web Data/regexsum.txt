@@ -1,0 +1,10 @@
+import re
+handle = open('C:\python\\Using Python to Access Web Data\\regex_sum_2131490.txt')
+sum = 0
+for line in handle:
+    line = line.rstrip()
+    numbers = re.findall('[0-9]+', line)
+    print(numbers)
+    for number in numbers:
+        sum += int(number)
+print(sum)

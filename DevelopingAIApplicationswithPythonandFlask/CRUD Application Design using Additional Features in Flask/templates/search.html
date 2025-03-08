@@ -1,0 +1,20 @@
+<!-- filepath: untitled:/c%3A/python/DevelopingAIApplicationswithPythonandFlask/CRUD%20Application%20Design%20using%20Additional%20Features%20in%20Flask/templates/search.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Search Transactions</title>
+</head>
+<body>
+    <h1>Search Transactions</h1>
+    <form action="{{ url_for('search_transactions') }}" method="post">
+        <label for="min_amount">Minimum Amount:</label>
+        <input type="number" step="0.01" id="min_amount" name="min_amount" required>
+        <br>
+        <label for="max_amount">Maximum Amount:</label>
+        <input type="number" step="0.01" id="max_amount" name="max_amount" required>
+        <br>
+        <button type="submit">Search</button>
+    </form>
+</body>
+</html>

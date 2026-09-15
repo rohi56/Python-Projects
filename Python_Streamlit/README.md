@@ -131,12 +131,6 @@ Contributions, issues, and feature requests are welcome! Feel free to fork this 
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 ## 🔗 Useful Links
 
 - [Streamlit Official Documentation](https://docs.streamlit.io/)
